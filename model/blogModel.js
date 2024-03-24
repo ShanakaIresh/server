@@ -35,7 +35,6 @@ class Blogs {
             return err
         })
         return resData
-
     }
 
 
